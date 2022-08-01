@@ -1,15 +1,28 @@
-### Hi there 👋
+👋 Hi there, I'm Waqas Khan. 
+Nick Name: Wagas kon
+Journey:
+I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.
+So I change my Career to Fronend Career🔀
 
-<!--
-**wagaskon/wagaskon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests:
+👀  I’m interested in coding, learning new languages, technologies and specially WEB 3.0.
 
-Here are some ideas to get you started:
+Learning:
+🌱 I’m currently learning deep dive
+-HTML5 CSS3 JavaScript React via Scrimba Frontend Career Path.
+along with it:
+-Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from @MoralisWeb3 and @alchemyplatform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Skills:
+HTML5
+CSS3
+JavaScript
+React
+Solidity
+
+
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
