@@ -1,6 +1,7 @@
 #👋 Hi there, I'm WaqasKhan. 
 ####Nick Name: Wagas kon
-
+Profile.docs
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 #Journey:
 ###I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.So I change my Career to Fronend Career🔀
 
