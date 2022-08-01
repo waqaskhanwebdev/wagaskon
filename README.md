@@ -4,7 +4,7 @@ Journey:
 I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.
 So I change my Career to Fronend Career🔀
 
-Interests:
+**Interests:**
 👀  I’m interested in coding, learning new languages, technologies and specially WEB 3.0.
 
 Learning:
