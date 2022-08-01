@@ -1,9 +1,8 @@
-👋 Hi there, I'm Waqas Khan. 
-Nick Name: Wagas kon
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagaskon)](https://github.com/anuraghazra/github-readme-stats)
-Journey:
-I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.
-So I change my Career to Fronend Career🔀
+#👋 Hi there, I'm WaqasKhan. 
+####Nick Name: Wagas kon
+
+#Journey:
+###I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.So I change my Career to Fronend Career🔀
 
 **Interests:**
 👀  I’m interested in coding, learning new languages, technologies and specially WEB 3.0.
@@ -24,7 +23,3 @@ Solidity
 
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
