@@ -1,5 +1,6 @@
 👋 Hi there, I'm Waqas Khan. 
 Nick Name: Wagas kon
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagaskon)](https://github.com/anuraghazra/github-readme-stats)
 Journey:
 I studied civil engineering 🏭👨‍🔧🛠 in https://giki.edu.pk/ but it did not fit my interest.
 So I change my Career to Fronend Career🔀
