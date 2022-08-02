@@ -8,8 +8,9 @@ I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) 
 
 ## Learning :sunglasses: 
 🌱 I’m currently learning deep dive 
-- HTML5, CSS, JavaScript React via Scrimba Frontend Career Path.  
+- HTML5, CSS, JavaScript React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
 - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3).
+- [PersonalSite](https://github.com/wagaskon/personal-site)
 
 ## Skills:muscle: 
 - HTML5
@@ -18,12 +19,57 @@ I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) 
 - JavaScript 
 - React 
 - Solidity
-
-## Repositories
-
-
 ## Cerificates
 
 ## Alchemy Web 3.0 Awards
 
 ## Portfolio Link
+## Respository : 
+<details>
+    <summary>Frontend Scrimba Solo Projects:</summary>
+           <p>Throughout the Scrimba front-end developer career path you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.
+           </p>
+          
+
+<nav class="list" >
+  <li><a class="item" href='https://github.com/wagaskon/Random-Password-Generator'>Random Password Generator</a></li><br>
+  <li><a class="item" href='https://github.com/wagaskon/Basket-Ball-Game'>Basket Ball Game</a></li><br>
+
+  <li><a class="item" href='https://github.com/wagaskon/personal-site'>Personal Site</a></li><br>
+  <li><a class="item" href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
+  
+  
+</nav>
+           
+
+        
+           
+</details> 
+<details>
+    <summary> Alchemy's Road to Web3 Projects:</summary>
+           <p>These are project done in Raod to Web 3 Path by Alchemy one in a week.
+           </p>
+           
+<nav class="o-link-list" >
+
+  <li><a  href='https://github.com/wagaskon/NFT-Smart-Contract-ERC721-'>1. Developed an NFT Smart Contract (ERC-721)</a></li><br>
+
+  <li><a  href='paste link here'>2. Build "Buy Me a Coffee" DeFi dapp</a></li><br>
+
+  <li><a href='link'>3. Make NFTs with On-Chain Metadata - Hardhat and JavaScript</a></li><br>
+
+  <li><a  href='link'>4. Create an NFT Gallery</a></li><br>
+
+  <li><a  href='link'>5. Connect APIs to your Smart Contracts using Chainlink</a></li><br>
+  <li><a  href='link'>6. Build a Staking Dapp</a></li><br>
+  <li><a  href='link'>7. Build an NFT Marketplace from Scratch</a></li><br>
+  <li><a  href='link'>8. Build a betting game on Optimism</a></li><br>
+  <li><a  href='link'>9. Build a Token Swap Dapp With 0x API</a></li><br>
+  <li><a  href='link'>10. Create a Decentralized Twitter with Lens Protocol</a></li><br>
+ 
+</nav>        
+</details> 
+
+
+
+
