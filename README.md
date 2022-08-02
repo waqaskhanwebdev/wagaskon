@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Waqas Khan 
 Nick Name: Wagas kon
 ## Jounery
-I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) but it did not fit my interest. So I change my Career to Fronend Career🔀
+I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) but programming attract my interest when I learn C++ in one of our courses. so I start exploring more and ended up at [Scrimba](scrimba.com). 🔀
 
 ## Interests:
 👀 I’m interested in coding :computer:, learning new languages, technologies and specially WEB 3.0.
@@ -10,7 +10,7 @@ I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) 
 🌱 I’m currently learning deep dive 
 - HTML5, CSS, JavaScript React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
 - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3).
-- [PersonalSite](https://github.com/wagaskon/personal-site)
+
 
 ## Skills:muscle: 
 - HTML5
@@ -19,18 +19,17 @@ I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) 
 - JavaScript 
 - React 
 - Solidity
-## Cerificates
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,solidity)](https://skillicons.dev)
 
-## Alchemy Web 3.0 Awards
-
-## Portfolio Link
 ## Respository : 
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
-           <p>Throughout the Scrimba front-end developer career path you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.
+
+<p> Throughout the Scrimba front-end developer career path you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.
            </p>
           
-
 <nav class="list" >
   <li><a class="item" href='https://github.com/wagaskon/Random-Password-Generator'>Random Password Generator</a></li><br>
   <li><a class="item" href='https://github.com/wagaskon/Basket-Ball-Game'>Basket Ball Game</a></li><br>
@@ -70,6 +69,18 @@ I studied civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) 
 </nav>        
 </details> 
 
+</details> 
+<details>
+    <summary> Moralis Web 3.0 Projects:</summary>
+           <p>These are project done in Raod to Web 3 Path by Alchemy one in a week.
+           </p>
+           
+<nav class="o-link-list" >
+<li><a  href='link'>NOT Yet Completed</a></li><br>
+ 
+</nav>        
+</details> 
 
+## Cerificates and Awards
 
-
+## Portfolio Link
