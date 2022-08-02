@@ -11,8 +11,8 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - HTML5, CSS, JavaScript React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
 - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3).
 
-
 ## Skills:muscle: 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,solidity)](https://skillicons.dev)
 - HTML5
 - CSS3
@@ -20,10 +20,6 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - JavaScript 
 - React 
 - Solidity
-<br>
-<br>
-
-
 ## Respository : 
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
@@ -39,12 +35,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   <li><a class="item" href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
   
   
-</nav>
-           
-
-        
-           
+</nav>        
 </details> 
+
 <details>
     <summary> Alchemy's Road to Web3 Projects:</summary>
            <p>These are project done in Raod to Web 3 Path by Alchemy one in a week.
