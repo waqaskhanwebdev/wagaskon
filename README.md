@@ -12,7 +12,8 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3).
 
 
-## Skills:muscle: [![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,solidity)](https://skillicons.dev)
+## Skills:muscle: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,solidity)](https://skillicons.dev)
 - HTML5
 - CSS3
 - Figma 
