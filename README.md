@@ -28,11 +28,13 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
            </p>
           
 <nav class="list" >
-  <li><a class="item" href='https://github.com/wagaskon/Random-Password-Generator'>Random Password Generator</a></li><br>
-  <li><a class="item" href='https://github.com/wagaskon/Basket-Ball-Game'>Basket Ball Game</a></li><br>
+  <li><a href='https://github.com/wagaskon/Browser-Extension'>Browser Extension</a></li><br>
 
-  <li><a class="item" href='https://github.com/wagaskon/personal-site'>Personal Site</a></li><br>
-  <li><a class="item" href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
+  <li><a href='https://github.com/wagaskon/Random-Password-Generator'>Random Password Generator</a></li><br>
+  <li><a  href='https://github.com/wagaskon/Basket-Ball-Game'>Basket Ball Game</a></li><br>
+
+  <li><a  href='https://github.com/wagaskon/personal-site'>Personal Site</a></li><br>
+  <li><a  href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
   
   
 </nav>        
