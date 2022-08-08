@@ -24,8 +24,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
 
-<p> Throughout the Scrimba front-end developer career path you are encouraged to do multiple solo projects. Solo means there will be no guidance or solution to the challenge; only the design and requirements of the projects are given.
-           </p>
+<p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
           
 <nav class="list" >
   <li><a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Units Converter Extension</a></li><br>
