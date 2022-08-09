@@ -78,6 +78,16 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 </nav>        
 </details> 
 
+<details>
+    <summary>Learnweb3.io Projects:</summary>
+    <p></p>
+           
+<nav class="o-link-list" >
+<li><a  href='https://wagaskon.github.io/Ethereum-Dapp/'>Ethereum Dapp Using Solidity HTML and Ether.js</a></li><br>
+ 
+</nav>        
+</details>
+
 ## Cerificates and Awards
 
 ## Portfolio Link
