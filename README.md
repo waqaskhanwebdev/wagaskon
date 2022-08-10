@@ -13,7 +13,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 ## Skills:muscle: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react)](https://skillicons.dev)
 - HTML5
 - CSS3
 - Figma 
@@ -39,55 +39,18 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   
   
 </nav>        
-</details> 
 
+
+<!-- 
 <details>
-    <summary> Alchemy's Road to Web3 Projects:</summary>
-           <p>These are project done in Raod to Web 3 Path by Alchemy one in a week.
-           </p>
-           
-<nav class="o-link-list" >
-
-  <li><a  href='https://github.com/wagaskon/NFT-Smart-Contract-ERC721-'>1. Developed an NFT Smart Contract (ERC-721)</a></li><br>
-
-  <li><a  href='paste link here'>2. Build "Buy Me a Coffee" DeFi dapp</a></li><br>
-
-  <li><a href='link'>3. Make NFTs with On-Chain Metadata - Hardhat and JavaScript</a></li><br>
-
-  <li><a  href='link'>4. Create an NFT Gallery</a></li><br>
-
-  <li><a  href='link'>5. Connect APIs to your Smart Contracts using Chainlink</a></li><br>
-  <li><a  href='link'>6. Build a Staking Dapp</a></li><br>
-  <li><a  href='link'>7. Build an NFT Marketplace from Scratch</a></li><br>
-  <li><a  href='link'>8. Build a betting game on Optimism</a></li><br>
-  <li><a  href='link'>9. Build a Token Swap Dapp With 0x API</a></li><br>
-  <li><a  href='link'>10. Create a Decentralized Twitter with Lens Protocol</a></li><br>
- 
-</nav>        
-</details> 
-
-</details> 
-<details>
-    <summary> Moralis Web 3.0 Projects:</summary>
-           <p>These are project done in Raod to Web 3 Path by Alchemy one in a week.
-           </p>
-           
-<nav class="o-link-list" >
-<li><a  href='link'>NOT Yet Completed</a></li><br>
- 
-</nav>        
-</details> 
-
-<details>
-    <summary>Learnweb3.io Projects:</summary>
+    <summary>Project Heading</summary>
     <p></p>
            
 <nav class="o-link-list" >
 <li><a  href='https://wagaskon.github.io/Ethereum-Dapp/'>Ethereum Dapp Using Solidity HTML and Ether.js</a></li><br>
  
 </nav>        
-</details>
-
+</details> -->
 ## Cerificates and Awards
 
 ## Portfolio Link
