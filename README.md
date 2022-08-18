@@ -20,7 +20,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - JavaScript 
 - React 
 - Solidity
-## Respository : 
+## Projects Respository : 
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
 
@@ -41,8 +41,10 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   </nav>        
 </details>
 
+## Blogs : 
+
 <details>
-    <summary>Blogs at DEV</summary>
+    <summary>HTML Blogs at DEV</summary>
     <p>DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.</p>
            
 <nav>
