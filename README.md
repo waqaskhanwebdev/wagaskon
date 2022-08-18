@@ -24,9 +24,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
 
-<p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
+  <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
           
-<nav class="list" >
+  <nav class="list" >
   <li><a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Units Converter Extension</a></li><br>
 
   <li><a href='https://github.com/wagaskon/Browser-Extension'>Browser Extension</a></li><br>
@@ -38,19 +38,22 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   <li><a  href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
   
   
-</nav>        
+  </nav>        
+</details>
 
-
-<!-- 
 <details>
-    <summary>Project Heading</summary>
-    <p></p>
+    <summary>Blogs at DEV</summary>
+    <p>DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.</p>
            
-<nav class="o-link-list" >
-<li><a  href='https://wagaskon.github.io/Ethereum-Dapp/'>Ethereum Dapp Using Solidity HTML and Ether.js</a></li><br>
+<nav>
+<li><a  href='https://dev.to/waqaskhan/html-tags-abbrmapareaaside-oa5'>HTML tags: Most beginner does not Know( Part 1)</a></li><br>
+<li><a  href='https://dev.to/waqaskhan/html-audio-explained-3jbd'>HTML tags: Most beginner does not Know ( Part 2)</a></li><br>
+<li><a  href='https://dev.to/waqaskhan/html-tags-most-beginner-does-not-know-part-3-44ae'>HTML tags: Most beginner does not Know( Part 3)</a></li><br>
  
 </nav>        
-</details> -->
-## Cerificates and Awards
+</details>
 
-## Portfolio Link
+
+<!-- ## Cerificates and Awards
+
+## Portfolio Link -->
