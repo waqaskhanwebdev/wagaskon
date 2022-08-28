@@ -8,8 +8,8 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 ## Learning :sunglasses: 
 🌱 I’m currently learning deep dive 
-- HTML5, CSS, JavaScript React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
-- Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3).
+- TypeScript and React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
+<!-- - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3). -->
 
 ## Skills:muscle: 
 
