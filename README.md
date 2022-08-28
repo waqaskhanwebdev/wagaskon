@@ -13,13 +13,13 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 ## Skills:muscle: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,react,typescript)](https://skillicons.dev)
 - HTML5
 - CSS3
 - Figma 
 - JavaScript 
 - React 
-- Solidity
+- TypeScript
 ## Projects Respository : 
 <details>
     <summary>Frontend Scrimba Solo Projects:</summary>
