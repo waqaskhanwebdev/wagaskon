@@ -26,7 +26,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
     <summary>Frontend Scrimba Solo Projects:</summary>
 
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
-          
+  <nav class="list" >
+  <li><a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension'>Crypto and Weather App</a></li><br>
+
   <nav class="list" >
   <li><a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Units Converter Extension</a></li><br>
 
