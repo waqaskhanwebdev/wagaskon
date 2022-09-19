@@ -27,19 +27,19 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   ### Srimba Solo Projects:
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
-  <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension'> Repository files</a></li><br>
+  <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension' target=”_blank”> Repository files</a></li><br>
 
   <nav class="list" >
-  <li>Units Converter Extension |<a href='https://wagaskon.github.io/Unit-Converter-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Repository files</a></li><br>
+  <li>Units Converter Extension |<a href='https://wagaskon.github.io/Unit-Converter-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Unit-Converter-Externsion' target=”_blank”>Repository files</a></li><br>
 
-  <li>Bookmarking Browser Extension |<a href='https://wagaskon.github.io/Bookmarking-BrowserExtension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Browser-Extension'>Repository files</a></li><br>
+  <li>Bookmarking Browser Extension |<a href='https://wagaskon.github.io/Bookmarking-BrowserExtension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Browser-Extension' target=”_blank”>Repository files</a></li><br>
 
-  <li>Random Password Generator |<a href='https://wagaskon.github.io/Random-Password-Generator/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Random-Password-Generator'>Repository files</a></li><br>
+  <li>Random Password Generator |<a href='https://wagaskon.github.io/Random-Password-Generator/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Random-Password-Generator' target=”_blank”>Repository files</a></li><br>
 
-  <li>Basket Ball Game |<a href='https://wagaskon.github.io/Basket-Ball-Game/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Basket-Ball-Game'>Repository files</a></li><br>
+  <li>Basket Ball Game |<a href='https://wagaskon.github.io/Basket-Ball-Game/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Basket-Ball-Game' target=”_blank”>Repository files</a></li><br>
 
 
-  <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan'>Repository files</a><br>
+  <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan' target=”_blank”>Repository files</a><br>
   
   
   <!-- </nav>        
