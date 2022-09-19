@@ -24,7 +24,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 ## Projects Respository : 
 <!-- <details>
     <summary>Frontend Scrimba Solo Projects:</summary> -->
-
+  ### Srimba Solo Projects:
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
   <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension'> Repository files</a></li><br>
@@ -42,22 +42,22 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan'>Repository files</a><br>
   
   
-  </nav>        
-</details>
+  <!-- </nav>        
+</details> -->
 
 ## Blogs : 
 
-<details>
-    <summary>HTML Blogs at DEV</summary>
-    <p>DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.</p>
-           
+<!-- <details>
+    <summary>HTML Blogs at DEV</summary> -->
+<!-- <p>DEV.to is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.</p> -->
+ ### HTML Blogs:        
 <nav>
 <li><a  href='https://dev.to/waqaskhan/html-tags-abbrmapareaaside-oa5'>HTML tags: Most beginner does not Know( Part 1)</a></li><br>
 <li><a  href='https://dev.to/waqaskhan/html-audio-explained-3jbd'>HTML tags: Most beginner does not Know ( Part 2)</a></li><br>
 <li><a  href='https://dev.to/waqaskhan/html-tags-most-beginner-does-not-know-part-3-44ae'>HTML tags: Most beginner does not Know( Part 3)</a></li><br>
  
-</nav>        
-</details>
+<!-- </nav>        
+</details> -->
 
 
 <!-- ## Cerificates and Awards
