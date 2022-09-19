@@ -27,18 +27,19 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
-  <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension'> Repository files</a></li><br>
+  <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension'> Repository files</a></li><br>
 
   <nav class="list" >
-  <li><a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Units Converter Extension</a></li><br>
+  <li>Units Converter Extension |<a href='https://wagaskon.github.io/Unit-Converter-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Unit-Converter-Externsion'>Repository files</a></li><br>
 
-  <li><a href='https://github.com/wagaskon/Browser-Extension'>Browser Extension</a></li><br>
+  <li>Bookmarking Browser Extension |<a href='https://wagaskon.github.io/Bookmarking-BrowserExtension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Browser-Extension'>Repository files</a></li><br>
 
-  <li><a href='https://github.com/wagaskon/Random-Password-Generator'>Random Password Generator</a></li><br>
-  <li><a  href='https://github.com/wagaskon/Basket-Ball-Game'>Basket Ball Game</a></li><br>
+  <li>Random Password Generator |<a href='https://wagaskon.github.io/Random-Password-Generator/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Random-Password-Generator'>Repository files</a></li><br>
 
-  <li><a  href='https://github.com/wagaskon/personal-site'>Personal Site</a></li><br>
-  <li><a  href='https://github.com/wagaskon/Visit-Pakistan'>Visit Pakistan</a><br>
+  <li>Basket Ball Game |<a href='https://wagaskon.github.io/Basket-Ball-Game/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Basket-Ball-Game'>Repository files</a></li><br>
+
+
+  <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan'>Repository files</a><br>
   
   
   </nav>        
