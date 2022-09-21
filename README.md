@@ -6,12 +6,12 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 ## Interests:
 👀 I’m interested in coding :computer:, learning new languages, technologies and specially WEB 3.0.
 
-## Learning :sunglasses: 
+## Learning :🧑🏻‍💻
 🌱 I’m currently learning deep dive 
 - TypeScript and React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
 <!-- - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3). -->
 
-## Skills:muscle: 
+## Skills:🎯💪🤸
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)](https://skillicons.dev)
 - HTML5
@@ -20,6 +20,16 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - JavaScript + ES6
 - TypeScript
 - React Js
+
+## Relavent Knowledge:📚🧠💡: 
+- APIs
+- Web architecture
+- Responsive design
+- Web design
+- UI Design
+- Git
+- Coding Reviews
+
 
 ## Projects Respository : 
 <!-- <details>
