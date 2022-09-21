@@ -56,6 +56,10 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 <li><a  href='https://dev.to/waqaskhan/html-audio-explained-3jbd'>HTML tags: Most beginner does not Know ( Part 2)</a></li><br>
 <li><a  href='https://dev.to/waqaskhan/html-tags-most-beginner-does-not-know-part-3-44ae'>HTML tags: Most beginner does not Know( Part 3)</a></li><br>
  
+
+## Frontend Career Path Progress At Scrimba University: 
+![Scrimba Progress](progress.png)
+
 <!-- </nav>        
 </details> -->
 
