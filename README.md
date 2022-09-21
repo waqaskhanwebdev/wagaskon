@@ -17,9 +17,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - HTML5
 - CSS3
 - Figma 
-- JavaScript 
+- JavaScript + ES6
 - TypeScript
-- React 
+- React Js
 
 ## Projects Respository : 
 <!-- <details>
