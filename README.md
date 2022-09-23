@@ -14,12 +14,12 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 ## Skills:🎯💪🤸
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)](https://skillicons.dev)
-- HTML5
+<!-- - HTML5
 - CSS3
 - Figma 
 - JavaScript + ES6
 - TypeScript
-- React Js
+- React Js -->
 
 ## Relavent Knowledge:📚🧠💡: 
 - APIs
@@ -27,7 +27,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 - Responsive design
 - Web design
 - UI Design
-- Git
+- Git and npm
 - Coding Reviews
 
 
