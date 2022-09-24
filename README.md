@@ -13,7 +13,8 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 ## Skills:🎯💪🤸
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)]https(://skillicons.dev) 
+![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)
+
 <!-- - HTML5
 - CSS3
 - Figma 
