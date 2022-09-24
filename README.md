@@ -35,7 +35,7 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 ## Projects Respository : 
 <!-- <details>
     <summary>Frontend Scrimba Solo Projects:</summary> -->
-  ### Srimba Solo Projects:
+  ### Scrimba Solo Projects:
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
   <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension' target=”_blank”> Repository files</a></li><br>
