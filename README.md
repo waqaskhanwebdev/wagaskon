@@ -60,9 +60,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   <!-- ### Scrimba React Solo Projects: -->
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
-  <li>Crypto and Weather App | 
-  <!-- <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> |  -->
-  <a href='https://github.com/wagaskon/DigitalBusinessCard-Using-React' target=”_blank”> Repository files</a></li><br>
+  <li>Business Card using react js | 
+  <a href='https://businesscard-react101.netlify.app/' >  Deployed Site link </a> | 
+  <a href='https://github.com/wagaskon/BusinessCard'> Repository files</a></li><br>
   </nav>        
 </details>
 
