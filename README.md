@@ -86,8 +86,8 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
  
 
 ## Frontend Career Path Progress At Scrimba University: 
+<!-- ![Scrimba Progress](progress.png) -->
 ![Scrimba Progress](progress.png)
-
 <!-- </nav>        
 </details> -->
 
