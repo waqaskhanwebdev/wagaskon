@@ -33,8 +33,9 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 
 ## Projects Respository : 
-<details>
-    <summary>Scrimba Javascript Solo Projects:</summary>
+### HTML/CSS/JavaScript Solo Projects
+<!-- <details>
+    <summary>Scrimba Javascript Solo Projects:</summary> -->
   <!-- ### Scrimba Solo Projects: -->
   <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
@@ -53,16 +54,21 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
   <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan' target=”_blank”>Repository files</a><br>
   
  </nav>        
-</details>
+<!-- </details> -->
 
-<details>
-    <summary>Scrimba React Solo Projects:</summary>
+<!-- <details>
+    <summary>Scrimba React Solo Projects:</summary> -->
   <!-- ### Scrimba React Solo Projects: -->
-  <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
+  ### React Projects:
+  <!-- <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p> -->
   <nav class="list" >
   <li>Business Card using react js | 
   <a href='https://businesscard-react101.netlify.app/' >  Deployed Site link </a> | 
   <a href='https://github.com/wagaskon/BusinessCard'> Repository files</a></li><br>
+
+  <li>Tenzies Dice Game | 
+  <a href='https://tenziegame101.netlify.app/' >  Deployed Site link </a> | 
+  <a href='https://github.com/wagaskon/Tenzies-Games'> Repository files</a></li><br>
   </nav>        
 </details>
 
