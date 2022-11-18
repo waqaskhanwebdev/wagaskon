@@ -15,12 +15,12 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)
 
-<!-- - HTML5
+- HTML5 
 - CSS3
 - Figma 
 - JavaScript + ES6
 - TypeScript
-- React Js -->
+- React Js
 
 ## Relavent Knowledge:📚🧠💡: 
 - APIs
