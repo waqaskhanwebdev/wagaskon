@@ -85,8 +85,10 @@ I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.p
 <li><a  href='https://dev.to/waqaskhan/html-tags-most-beginner-does-not-know-part-3-44ae'>HTML tags: Most beginner does not Know( Part 3)</a></li><br>
  
 
-## Frontend Career Path Progress At Scrimba University: 
-![Scrimba Progress](Scrimba.png)
+## Cerificate: 
+My Frontend Career Path certificate from scrimba. 
+<a  href='https://scrimba.com/certificate/ud3gNQuR/gfrontend'>Click here</a>
+
 <!-- </nav>        
 </details> -->
 
