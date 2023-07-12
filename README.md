@@ -1,19 +1,14 @@
 # 👋 Hi there, I'm Waqas Khan 
-Nick Name: Wagas kon
+
 ## Jounery
-I was studing civil engineering 🏭👨‍🔧🛠 at [GIKI](https://giki.edu.pk/) but programming attract my interest when I learn C++ in one of our courses. so I start exploring more and ended up at [Scrimba](scrimba.com). 🔀
+I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love programming so I started my career in web development. I studied frontend developemnt at [Scrimba](scrimba.com) and backend development from [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
 
 ## Interests:
-👀 I’m interested in coding :computer:, learning new languages, technologies and specially WEB 3.0.
-
-## Learning :🧑🏻‍💻
-🌱 I’m currently learning deep dive 
-- TypeScript and React via [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
-<!-- - Solidity, NFT Smart Contract, Dapp, Web 3.0 and MetaVerse from [@MoralisWeb3](https://docs.moralis.io/introduction/readme) and [@alchemyplatform](https://docs.alchemy.com/alchemy/road-to-web3/welcome-to-the-road-to-web3). -->
+👀 I’m interested in coding :computer:, learning new languages, technologies.
 
 ## Skills:🎯💪🤸
 
-![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,typescript,react)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss)
 
 - HTML5 
 - CSS3
