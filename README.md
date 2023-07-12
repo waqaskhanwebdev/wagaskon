@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Waqas Khan 
 
 ## Jounery
-I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love programming so I started my career in web development. I studied frontend developemnt at [Scrimba](scrimba.com) and backend development from [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
+I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love programming so I started my career in web development. I studied frontend developemnt at [Scrimba](scrimba.com) and then full stack from [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
 
 ## Interests:
 I love building full stack projects, contributing to open source and solve some problems. I love meeting new people and learn from them.<br/>
