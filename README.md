@@ -4,35 +4,19 @@
 I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love programming so I started my career in web development. I studied frontend developemnt at [Scrimba](scrimba.com) and backend development from [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode).
 
 ## Interests:
-👀 I’m interested in coding :computer:, learning new languages, technologies.
+I love building full stack projects, contributing to open source and solve some problems. I love meeting new people and learn from them.<br/>
+I love playing chess and football. Also I watch movies and tv shows in my free time.
 
 ## Skills:🎯💪🤸
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss)
+![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,next,typescript,tailwindcss,planetscale,prisma,mongodb,mysql,express)
 
-- HTML5 
-- CSS3
-- Figma 
-- JavaScript + ES6
-- TypeScript
-- React Js
-
-## Relavent Knowledge:📚🧠💡: 
-- APIs
-- Web architecture
-- Responsive design
-- Web design
-- UI Design
-- Git and npm
-- Coding Reviews
-
-
-## Projects Respository : 
-### HTML/CSS/JavaScript Solo Projects
+<!-- ## Projects Respository : 
+### HTML/CSS/JavaScript Solo Projects -->
 <!-- <details>
     <summary>Scrimba Javascript Solo Projects:</summary> -->
   <!-- ### Scrimba Solo Projects: -->
-  <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
+  <!-- <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p>
   <nav class="list" >
   <li>Crypto and Weather App | <a href='https://wagaskon.github.io/Crypto-and-Weather-App-as-Extension/'  target=”_blank”>  Deployed Site link </a> | <a href='https://github.com/wagaskon/Crypto-and-Weather-App-as-Extension' target=”_blank”> Repository files</a></li><br>
 
@@ -48,15 +32,15 @@ I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love progra
 
   <li>Visit Pakistan Sample Site |<a href='https://wagaskon.github.io/Visit-Pakistan/'  target=”_blank”>  Deployed Site link </a> |<a  href='https://github.com/wagaskon/Visit-Pakistan' target=”_blank”>Repository files</a><br>
   
- </nav>        
+ </nav>         -->
 <!-- </details> -->
 
 <!-- <details>
     <summary>Scrimba React Solo Projects:</summary> -->
   <!-- ### Scrimba React Solo Projects: -->
-  ### React Projects:
+  <!-- ### React Projects: -->
   <!-- <p> Scrimba provides solo projects throughout the career path which is performed on your own without the instructer guidence</p> -->
-  <nav class="list" >
+  <!-- <nav class="list" >
   <li>Business Card using react js | 
   <a href='https://businesscard-react101.netlify.app/' >  Deployed Site link </a> | 
   <a href='https://github.com/wagaskon/BusinessCard'> Repository files</a></li><br>
@@ -65,15 +49,15 @@ I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love progra
   <a href='https://tenziegame101.netlify.app/' >  Deployed Site link </a> | 
   <a href='https://github.com/wagaskon/Tenzies-Games'> Repository files</a></li><br>
   </nav>        
-</details>
+</details> -->
 
 
-## Blogs : 
+<!-- ## Blogs :  -->
 
 <!-- <details>
     <summary>HTML Blogs at DEV</summary> -->
 <!-- <p>DEV.to is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.</p> -->
- ### HTML Blogs:        
+ <!-- ### HTML Blogs:        
 <nav>
 <li><a  href='https://dev.to/waqaskhan/html-tags-abbrmapareaaside-oa5'>HTML tags: Most beginner does not Know( Part 1)</a></li><br>
 <li><a  href='https://dev.to/waqaskhan/html-audio-explained-3jbd'>HTML tags: Most beginner does not Know ( Part 2)</a></li><br>
@@ -82,7 +66,7 @@ I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love progra
 
 ## Cerificate: 
 My Frontend Career Path certificate from scrimba. 
-<a  href='https://scrimba.com/certificate/ud3gNQuR/gfrontend'>Click here</a>
+<a  href='https://scrimba.com/certificate/ud3gNQuR/gfrontend'>Click here</a> -->
 
 <!-- </nav>        
 </details> -->
