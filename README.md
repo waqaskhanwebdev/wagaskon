@@ -7,7 +7,7 @@ I am graduate civil engineer from [GIKI](https://giki.edu.pk/) but I love progra
 I love building full stack projects, contributing to open source and solve some problems. I love meeting new people and learn from them.<br/>
 I love playing chess and football. Also I watch movies and tv shows in my free time.
 
-## Skills:🎯💪🤸
+## Tools that I use Web development:🎯💪🤸
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,next,typescript,tailwindcss,planetscale,prisma,mongodb,mysql,express)
 
